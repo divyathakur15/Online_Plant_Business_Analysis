@@ -21,37 +21,23 @@ Online Business Project (Plant)/
 │   └── ONLINE_BUSINESS.xlsx               # Main Excel workbook with all analysis
 │
 ├── 📂 Visualizations/
-│   ├── 📂 Charts/                         # 10 individual chart screenshots
-│   │   ├── 01_Price_Distribution_BoxWhisker_Chart.PNG
-│   │   ├── 02_Price_Distribution_Histogram_Chart.PNG
-│   │   ├── 03_Top10_Brands_BarChart.PNG
-│   │   ├── 04_Plant_Type_Distribution_PieChart.PNG
-│   │   ├── 05_Plant_Size_Distribution_ColumnChart.PNG
-│   │   ├── 06_Plant_LifeCycle_Distribution_DonutChart.PNG
-│   │   ├── 07_Location_Distribution_ColumnChart.PNG
-│   │   ├── 08_Hybrid_Plants_Distribution_PieChart.PNG
-│   │   ├── 09_FengShui_Plants_Distribution_BarChart.PNG
-│   │   └── 10_Return_Policy_Distribution_ColumnChart.PNG
-│   │
-│   ├── 📂 Dashboard/
-│   │   └── Complete_Dashboard_View.PNG    # Full dashboard screenshot
-│   │
-│   └── CHARTS_DOCUMENTATION.md            # Detailed chart descriptions
-│
-└── 📂 Pivot_Tables_CSV/                   # Exported pivot table data (12 CSV files)
-    ├── box and whisker.csv
-    ├── DASHBOARD.csv
-    ├── DATA.csv
-    ├── feng shui chart by count.csv
-    ├── HISTOGRAM.csv
-    ├── hybride chart by count.csv
-    ├── life cycle chart by count.csv
-    ├── location chart by name.csv
-    ├── plant size chart by count.csv
-    ├── plant type chart by count.csv
-    ├── return policy chart by count.csv
-    └── top 10 brand.csv
-```
+   ├── 📂 Charts/                         # 10 individual chart screenshots
+   │   ├── 01_Price_Distribution_BoxWhisker_Chart.PNG
+   │   ├── 02_Price_Distribution_Histogram_Chart.PNG
+   │   ├── 03_Top10_Brands_BarChart.PNG
+   │   ├── 04_Plant_Type_Distribution_PieChart.PNG
+   │   ├── 05_Plant_Size_Distribution_ColumnChart.PNG
+   │   ├── 06_Plant_LifeCycle_Distribution_DonutChart.PNG
+   │   ├── 07_Location_Distribution_ColumnChart.PNG
+   │   ├── 08_Hybrid_Plants_Distribution_PieChart.PNG
+   │   ├── 09_FengShui_Plants_Distribution_BarChart.PNG
+   │   └── 10_Return_Policy_Distribution_ColumnChart.PNG
+   │
+   ├── 📂 Dashboard/
+   │   └── Online Business Plant Analysis.PNG    # Full dashboard screenshot
+   │
+   └── CHARTS_DOCUMENTATION.md            # Detailed chart descriptions
+
 
 ---
 
